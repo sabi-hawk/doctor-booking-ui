@@ -19,6 +19,20 @@ A responsive and accessible appointment booking interface for healthcare platfor
   - Display doctor details, appointment time, and location
   - Clean and organized layout
 
+## Screenshots
+
+### Doctor Directory View
+![Doctor Directory View](./screenshots/doctor-directory.png)
+
+### Filter Bar
+![Filter Bar](./screenshots/filter-bar.png)
+
+### Booking Modal
+![Booking Modal](./screenshots/booking-modal.png)
+
+### Appointments Summary
+![Appointments Summary](./screenshots/appointments-summary.png)
+
 ## Tech Stack
 
 - React 19
