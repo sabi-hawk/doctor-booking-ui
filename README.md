@@ -89,7 +89,6 @@ This project utilized AI assistance through Cursor for:
 - Mock data generation
 - Accessibility optimization
 - Code review and improvements
-- README documentation
 
 ## Known Limitations
 
