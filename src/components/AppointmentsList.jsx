@@ -8,8 +8,7 @@ function AppointmentsList() {
     return (
       <div className="bg-white rounded-xl shadow-sm p-6">
         <div className="flex items-center justify-between mb-6">
-          <h2 className="text-xl font-semibold text-gray-800">My Appointments</h2>
-          <span className="text-sm text-gray-500">No appointments</span>
+         
         </div>
         <div className="text-center py-8">
           <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
